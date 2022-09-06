@@ -1,0 +1,15 @@
+python setup.py install
+
+python setup.py build
+
+
+
+corretoras = {
+    captar corretoras no mercado, 
+    valida quem compra e vende,
+    captando a minima e á liquidez,
+    captando os pontos, 
+    volume de compra e venda,
+    rompimento,
+    
+}

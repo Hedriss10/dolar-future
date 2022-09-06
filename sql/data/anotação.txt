@@ -1,0 +1,27 @@
+valor || quantidade 
+
+desvio padrão do valor
+8.037024
+
+desvio padrão da quantidade 
+16.097676
+
+
+porcentagem (valores)= {
+    min = 5135
+    25% =  5144
+    50% = 5149 
+    75% = 5172   
+    max = 5172
+}
+
+porcentagem (quantidade) {
+    std= 12.028179
+    min= 16.097676
+    25%=5.0
+    50%=5.0
+    75%=5.0
+    max=290.00
+}
+
+
